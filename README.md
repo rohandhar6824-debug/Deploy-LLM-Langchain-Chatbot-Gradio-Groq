@@ -31,5 +31,6 @@ Deploying Gradio apps via Streamlit Cloud
 LangChain (chat history) | Gradio (web UI) | Groq API (Llama 3.1) | Python | python-dotenv
 
 Local Setup: python main.py → http://127.0.0.1:7860
+<br>
 Dependencies: pip install gradio langchain-groq langchain-core python-dotenv
 .env: GROQ_API_KEY=your_key_from_console.groq.com
